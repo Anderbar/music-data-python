@@ -1,0 +1,45 @@
+Music Dataset
+
+Name, Artist, Album, Year, Decade, Genre, Topic, Location
+
+Actions: List songs in a specification, add song, find songs from an artist or an album or a genre etc., 
+
+Topics: Life, Heartbreak, Toxic, Love, Instrumental
+
+
+[1] Songs:
+    [a] By title (and artist)
+    [b] By substring (use for features or looking for a word in song)
+    [c] Print all songs and the artist
+
+[2] Artist:
+    [a] Search songs by this artist
+    [b] Search albums by this artist
+    [c] Print artists
+
+[3] Genre:
+    [a] Songs by this genre
+    [b] Artists by this genre
+    [c] Filter genres with a specific Topic
+    [d] Genre and Year
+    [e] Genre and Decade
+    [f] Print Genres
+
+[4] Year:
+    [a] Who made music this Year
+    [b] What songs were made this Year
+    [c] Print Years
+
+[5] Decade:
+    [a] Artists this Decade
+    [b] Songs this Decade
+    [c] Print Decades
+
+[6] Topics:
+    [a] Give me songs that fit this Topic
+    [b] Give me artists that make songs like this
+
+[7] Location:
+    [a] Give me all songs that I can find here (ex. YouTube)
+    [b] Songs not on all platforms
+    [c] Print Locations
